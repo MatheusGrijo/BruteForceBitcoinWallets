@@ -1,0 +1,13 @@
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\BitcoinAddressSearch.exe.config
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\BitcoinAddressSearch.exe
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\BitcoinAddressSearch.pdb
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\NBitcoin.dll
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\Newtonsoft.Json.dll
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\System.Buffers.dll
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\NBitcoin.xml
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\Newtonsoft.Json.xml
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\bin\Debug\System.Buffers.xml
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\obj\Debug\BruteForceBitcoinWalletsBalance.csproj.CoreCompileInputs.cache
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\obj\Debug\BitcoinAddressSearch.exe
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\obj\Debug\BitcoinAddressSearch.pdb
+C:\tests\BruteForceBitcoinWalletsBalance\BruteForceBitcoinWalletsBalance\obj\Debug\BruteForceBitcoinWalletsBalance.csprojResolveAssemblyReference.cache

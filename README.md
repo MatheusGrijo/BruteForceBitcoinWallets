@@ -1,1 +1,1 @@
-# BruteForceBitcoinWallets
+# BruteForceBitcoinWalletsBalance
