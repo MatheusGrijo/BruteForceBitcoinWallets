@@ -64,13 +64,22 @@ namespace BitcoinAddressSearch
                 BitcoinAddress addressKey = secretKey.PubKey.GetAddress(Network.Main);
 
                 String ret = Get("https://blockchain.info/q/addressbalance/" + addressKey.ToString());
-                if (ret != "0")
+                
+                string Str = ret;
+                double Num;
+
+                bool isNum = double.TryParse(Str, out Num);
+
+                if (isNum == true)
                 {
-                    Console.WriteLine("************ Check this out     Secret :" + secretKey + "         Key :" + addressKey.ToString());
-                    string s = secretKey + " ----- " + addressKey.ToString();
-                    System.IO.File.WriteAllText(location + "BitcoinAddres-" + addressKey.ToString() + ".txt", s);
+                    if (ret != "0")
+                    {
+                        Console.WriteLine("************ Check this out     Secret :" + secretKey + "         Key :" + addressKey.ToString());
+                        string s = secretKey + " ----- " + addressKey.ToString() + " ---- " + ret;
+                        System.IO.File.WriteAllText(location + "BitcoinAddres-" + addressKey.ToString() + ".txt", s);
+                    }
                 }
-            }
+                }
             catch
 
             { 
